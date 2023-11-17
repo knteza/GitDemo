@@ -1,0 +1,3 @@
+It looks like JDK 11 hasn't worked either. The issue seems to be installing jenkins onto my machine. One of the steps in installing jenkins requires entering logon service credentials...I entered my admin login info but it didn't work. The other step required accessing the local security policy on my machine but could not find this on here either. 
+
+I would love to get some help in figuring this out as I've spent days trying to install jenkins. 
